@@ -1,1 +1,2 @@
 forge script DeployUniswapV3Twap --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify
+forge script DeployUniswapV3Pool --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify
